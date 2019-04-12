@@ -16,7 +16,7 @@ This source code is in improvements state, please dont forget to init geth durin
 $ geth init genesis.json
 ```
 
-If you use a builded geth, you can download our genesis in our source code: https://github.com/ethereum/go-gjco/genesis.json
+If you use a builded geth, you can download our genesis in our source code: https://github.com/giletjaunecoin/go-gjco/genesis.json
 
 ## Building the source
 
